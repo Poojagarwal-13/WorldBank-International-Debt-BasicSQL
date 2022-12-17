@@ -1,7 +1,7 @@
 # WorldBank-International-Debt-BasicSQL
 Analyze international debt data collected by The World Bank using basic SQL queries.
 
-This project is created as part of DataCamp Project ["Analyze International Debt Statistics(https://app.datacamp.com/learn/projects/754)"].
+This project is created as part of DataCamp Project [Analyze International Debt Statistics](https://app.datacamp.com/learn/projects/754).
 
 ### Project Description
 
